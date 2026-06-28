@@ -1,4 +1,4 @@
-package com.zhangcanfu.myJava.enumeration;
+package com.zhangcanfu.myjava.app.enumeration;
 
 /**
  * 工作日枚举类

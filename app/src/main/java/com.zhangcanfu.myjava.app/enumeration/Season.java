@@ -1,4 +1,4 @@
-package com.zhangcanfu.myJava.enumeration;
+package com.zhangcanfu.myjava.app.enumeration;
 
 /**
  * subName 季节中文名称

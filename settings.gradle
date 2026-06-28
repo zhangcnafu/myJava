@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = 'myJava'
-include('app', 'list', 'utilities')
+include('app', 'common', 'domain')
