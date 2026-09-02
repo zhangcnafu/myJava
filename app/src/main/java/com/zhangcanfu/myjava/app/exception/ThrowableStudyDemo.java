@@ -72,6 +72,7 @@ public class ThrowableStudyDemo {
     }
 
     private static void useResource() throws Exception {
+        // DemoResource.close() throws an exception so suppressed exceptions are visible.
         try (DemoResource resource = new DemoResource("order-file")) {
             throw new IllegalStateException("The main processing flow failed.");
         }
